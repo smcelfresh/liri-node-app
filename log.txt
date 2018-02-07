@@ -1,0 +1,4 @@
+
+node liri.js: my-tweets sdmcelfresh27
+node liri.js: spotify-this-song Thunder
+node liri.js: movie-this Titantic
